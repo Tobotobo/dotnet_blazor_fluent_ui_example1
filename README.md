@@ -18,6 +18,8 @@ https://github.com/microsoft/fluentui-blazor
 
 ## blazor テンプレートと fluentblazor テンプレートの差異
 
+※差異の詳細は https://github.com/Tobotobo/dotnet_blazor_fluent_ui_example1/commit/191f55c533ecb0fe3733ac2218e2413ab841455e?diff=split&w=1 を参照
+
 ### Components/App.razor
 * `<link rel="stylesheet" href="bootstrap/bootstrap.min.css" />` 削除
 * `<link rel="icon" type="image/x-icon" href="favicon.ico" />` png から icon に変更
