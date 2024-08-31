@@ -6,11 +6,14 @@
 
 ![alt text](images/README/image.png)
 
+Microsoft Fluent UI Blazor components  
+https://github.com/microsoft/fluentui-blazor  
+
 Fluent UI Blazor Demo site  
 https://www.fluentui-blazor.net/  
 
-Microsoft Fluent UI Blazor components  
-https://github.com/microsoft/fluentui-blazor  
+Tobotobo - Fluent UI 関連のプロジェクト  
+https://github.com/Tobotobo/my_knowledge_base/issues/27  
 
 ## 環境
 * ubuntu.24.04-x64
